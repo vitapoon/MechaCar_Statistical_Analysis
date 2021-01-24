@@ -47,12 +47,16 @@ Answer:By using a significance level of 95%, we found out that except Lot 3 p-va
 
 What metric or metrics are you going to test?
 
+The metrics I want to test are city and highway fuel efficiencies.
 
 What is the null hypothesis or alternative hypothesis?
 
+Null Hypothesis is that all of the cars in the same class have the same fuel efficienies. THe Alternative Hypothesis is that they are not all the same.
 
 What statistical test would you use to test the hypothesis? And why?
 
+To do this I will  use t-test after collecting data for both types of fuel efficiencies.
 
 What data is needed to run the statistical test?
 
+I would need fuel efficiency data from 150 individual cars to create a sample size of data for each car in the class type.
