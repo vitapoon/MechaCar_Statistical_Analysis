@@ -16,8 +16,9 @@ Our R-squared value is 71%, which means roughly ~71% of the time the model will 
 ## Here are the summary results from the linear regression
 ![Deliverable 1](https://user-images.githubusercontent.com/71739110/105636950-b6895380-5ea5-11eb-93c5-7eddb37ab577.png)
 
-# Summary Statistics on Suspension Coils,
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+# Summary Statistics on Suspension Coils
+
+I created two summary tables to look at the mean, median, variance, and standard deviation of data. The first table looked at of the data as a whole, while the second table looked specific at each of the three different lots that the MechaCars were divided into. Here are the two tables.
 
 ## Total Summary 
 ![total summary](https://user-images.githubusercontent.com/71739110/105638260-ad4fb500-5eac-11eb-8217-e3d54ae54689.png)
@@ -25,7 +26,9 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## Lot Summary
 ![lot summary](https://user-images.githubusercontent.com/71739110/105638258-ac1e8800-5eac-11eb-8ef2-637c0d5089e1.png)
 
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+Looking at the total summary, the current variance is approximately 62.29356 PSI meaning that is does meet the design specification. When looking at the lots individuals, the first two lotas meet the design specification at a varaince of approximately 0.9795918 PSI and 7.4693878 PSI respectfully, but the third lot does not. This is becasue the third lot's variance is approximately 170.2861224 PSI. Therefore, the manufacturing team should work with the cars in lots 1 and 2 compared to those in lot 3.
 
 
 # T-Tests on Suspension Coils
