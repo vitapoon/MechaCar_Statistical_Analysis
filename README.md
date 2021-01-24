@@ -33,3 +33,6 @@ Looking at the total summary, the current variance is approximately 62.29356 PSI
 
 # T-Tests on Suspension Coils
 Lot 1 and Lot 3 the PSI values are not different from the population mean. However lot 2 the p-value is .347 which means there is evidence that the suspension coil is different from the population mean. All t-tests can be seen below:
+
+## Here is a breakdown of each of the four tests:
+
